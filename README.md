@@ -1,2 +1,2 @@
-# School-Project
+# School Team Project
 HML, CSS, JAVA
